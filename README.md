@@ -2,7 +2,7 @@
 
 Prototype of an audio declicker for detecting and suppressing impulse noise in audio signals using the Discrete Wavelet Transform (DWT).
 
-The project was developed as part of a bachelor's thesis and is intended as a research prototype for experimenting with wavelet-based audio restoration.
+The project was developed as part of a bachelor's graduation work and is intended as a research prototype for experimenting with wavelet-based audio restoration.
 
 ## Overview
 
