@@ -86,3 +86,10 @@ Main processing parameters:
 - **k_min / k_max** — range of suppression strength values.
 - **Reaction** — controls how strongly the algorithm reacts to detected outliers.
 - **Cycle Spins** — number of cyclic shifts used to reduce DWT shift sensitivity.
+
+## Installation
+
+Recommended Python version:
+
+```bash
+Python 3.10+
